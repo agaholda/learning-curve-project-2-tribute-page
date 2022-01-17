@@ -2,4 +2,4 @@
 
 My first html + css tribute page
 
-![screenshot-project-1](images/calc.jpg)
+![screenshot-project-1](images/screenshot.JPG)
