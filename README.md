@@ -1,4 +1,4 @@
-# learning-curve-project-1
+# learning-curve-project-2
 
 My first html + css tribute page
 
